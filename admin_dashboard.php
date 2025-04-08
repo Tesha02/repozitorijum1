@@ -134,7 +134,7 @@ if (!isset($_SESSION['admin_id'])) {
                                     </form>
                                 </td>
                             </tr>
-                            < <?php endforeach; ?>
+                        <?php endforeach; ?>
                     </tbody>
                 </table>
 

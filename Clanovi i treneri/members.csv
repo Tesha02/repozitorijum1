@@ -1,0 +1,6 @@
+member_id,first_name,last_name,email,phone_number,photo_path,training_plan_id,trainer_id,access_card_pdf_path,created_at
+1,Marko,Petrović,marko.petrovic@example.com,+381641234567,/photos/marko.jpg,1,3,/cards/marko.pdf,0000-00-00
+5,Jovan,Maksim,jovo.maksim@gmail.com,234423234,,2,1,,2025-04-03
+6,Mile,Milic,adpsjdf@sfds.com,234324234,,3,0,,2025-04-03
+7,seres,sdfsd,sefew@saf,3242342,,2,0,access_cards/access_card_7.pdf,2025-04-03
+8,Tesha,Tesic,asfdsaf@sfds.com,21421412,member_photos/3578cc92-71b6-48fd-99cd-432c4695746a.jpg,1,0,access_cards/access_card_8.pdf,2025-04-04
